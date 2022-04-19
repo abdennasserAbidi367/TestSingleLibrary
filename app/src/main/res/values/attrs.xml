@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="BlurLayout">
+        <attr name="blk_downscaleFactor" format="float" />
+        <attr name="blk_blurRadius" format="integer" />
+        <attr name="blk_fps" format="integer" />
+        <attr name="blk_cornerRadius" format="dimension" />
+        <attr name="blk_alpha" format="float" />
+    </declare-styleable>
+
+    <declare-styleable name="SmileyRatingView">
+        <attr name="face_color" format="color"/>
+        <attr name="eyes_color" format="color"/>
+        <attr name="tongue_color" format="color"/>
+        <attr name="mouth_color" format="color"/>
+        <attr name="default_rating" format="integer"/>
+    </declare-styleable>
+</resources>

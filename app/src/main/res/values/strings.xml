@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TestApplication</string>
+    <string name="phone_number">Your phone number</string>
+    <string name="header_desc">Please confirm your country code and enter your phone number</string>
+    <string name="hint">add at least a video or pic</string>
+    <string name="description">Description</string>
+    <string name="description_hint">description...</string>
+    <string name="add_media">add media</string>
+    <string name="add_location">add location</string>
+    <string name="add_price">Add price</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
